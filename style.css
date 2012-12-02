@@ -1,0 +1,25 @@
+html {
+    font-family: Arial,sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: -5px;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify
+}
+
+#header {
+    margin-top: 60px;
+    border-bottom-style: solid;
+}
+
+#wrapper {
+    max-width: 600px;
+    min-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
